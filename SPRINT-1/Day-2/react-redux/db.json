@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "LEARN REDUX",
+      "status": "false"
+    },
+    {
+      "title": "LEARN TYPING",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "LEARN REACT-REDUX",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "LEARN REACT",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
