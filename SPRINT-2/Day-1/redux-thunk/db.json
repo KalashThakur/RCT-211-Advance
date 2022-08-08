@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "react-redux",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "REDUX-THUNK",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "JS-ADVANCE",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "TYPESCRIPT",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
